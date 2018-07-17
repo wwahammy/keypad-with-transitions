@@ -27,7 +27,7 @@ pin_read	KEYWORD2
 setDebounceTime	KEYWORD2
 setHoldTime	KEYWORD2
 waitForKey	KEYWORD2
-addTransitionListener KEYWORD2
+addTransitionListener	KEYWORD2
 
 # this is a macro that converts 2d arrays to pointers
 makeKeymap	KEYWORD2
